@@ -1,6 +1,5 @@
 import React from 'react';
 import FixHeader from './components/Header';
-<<<<<<< HEAD
 import ImageCard from './components/ImageCard';
 import Wrapper from './components/Wrapper';
 import images from './images.json';
@@ -102,22 +101,6 @@ class App extends React.Component {
       </div>
     );
   }
-=======
-import Body from './components/Body';
-
-function App() {
-  return (
-    <div>
-      <FixHeader
-        title='Clicky Game'
-        direction='Click an image to begin!'
-        score='0'
-        topScore='0'
-      />
-      <Body />
-    </div>
-  );
->>>>>>> b084d20d9139b0c799baae97187261c0a91b685a
 }
 
 export default App;
