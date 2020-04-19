@@ -1,0 +1,2 @@
+.card{background:grey;margin:1rem}.card>.img-container>img{width:100%;height:100%}.card:hover{-webkit-transform:translateY(-5px);transform:translateY(-5px);transition:-webkit-transform .2s;transition:transform .2s;transition:transform .2s,-webkit-transform .2s;box-shadow:10px 10px green}.wrapper{background:#eceff1;height:50%;display:flex;flex-flow:row wrap;padding:10px;justify-content:center;align-content:flex-start;overflow:auto}
+/*# sourceMappingURL=main.16612719.chunk.css.map */
