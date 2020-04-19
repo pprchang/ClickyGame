@@ -7,7 +7,11 @@ function FixHeader(props) {
         <div className='col-sm text-center text-white'>
           <h2 className='font-weight-bold text-white'>{props.title}</h2>
         </div>
+<<<<<<< HEAD
         <div className='col-sm text-center text-white bg-warning rounded-pill'>
+=======
+        <div className='col-sm text-center text-white'>
+>>>>>>> b084d20d9139b0c799baae97187261c0a91b685a
           <h2 className='font-weight-bold'>{props.direction}</h2>
         </div>
         <div className='col-sm text-center text-white'>
