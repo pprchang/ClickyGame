@@ -2,7 +2,7 @@
 Clicky Game is an memory game that render different images to the screen. Each image listen for click events.  The the user's score is tracked when the user clicks on an image. The user's score increments when clicking an image for the first time; however the user's score reset to 0 and the game reset if the user clicks on the same image more than once. Every time an image is clicked, the images rendered to the page shuffles themselves in a random order.
 
 ## *Live Link*
-(https://pprchang.github.io/ClickyGame/)
+(https://pprchang.github.io/clickygame/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
